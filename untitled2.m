@@ -32,3 +32,6 @@ end
 z = 2*y;
 disp(['y = ', num2str(y)])
 disp(['z = ', num2str(z)])
+ ab =1+5
+ disp(['ab = ', num2str(ab)])
+ 
